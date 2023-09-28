@@ -16,8 +16,9 @@ Deliverables:
 - Perform a per-class accuracy analysis of the results and observe the effect of skewed data distribution on the per-class accuracy   
 - Evaluate the system on a multimodal dataset that is relatively balanced in class distribution  
 
-System blocks: 
-![IMG_0993](https://github.com/ivyjhuang/ECE535/assets/89998421/1585eb7d-5315-4502-83ae-e5336b8a6643)
+System blocks:   ![IMG_0993](https://github.com/ivyjhuang/ECE535/assets/89998421/e08b622b-f7ee-469f-bbf4-30482d89b1a1)
+
+
 
 HW/SW requirements:  
 There are no hardware requirements, only software requirements. The code and data set is provided in the Github repository. We will be testing and getting results with the Python code provided. 
