@@ -8,7 +8,7 @@ We both learned a little about ML in Security Engineering ECE 371
 Motivation:  
 To understand how federated learning works on multimodal sensory data. We are interested in federated learning, where the training is distributed across multiple devices instead of the traditional ML where training takes place in only one device. This project will help us get more comfortable with ML. 
 
-Design Goals:  ihibu
+Design Goals:
 Understand the Federated Learning code and add our explanation for it on our GitHub repository  
 Add comments to the code so anyone looking at the Federated Learning code for the first time can understand it  
 
