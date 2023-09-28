@@ -1,6 +1,6 @@
 # ECE535
 How our team is suitable:  
-Alice took CS 383, an artificial intelligence class, so she has some background in ML We both learned a little about ML in ECE 371, Security Engineering. We also both attended an ML workshop at M5. We are interested in gaining a better understanding of ML.
+Alice took CS 383, an artificial intelligence class, so she has some background in ML. We both learned a little about ML in ECE 371, Security Engineering. We also both attended an ML workshop at M5. We are interested in gaining a better understanding of ML.
 
 Motivation:  
 To understand how federated learning works on multimodal sensory data. We are interested in federated learning, where the training is distributed across multiple devices instead of the traditional ML where training takes place in only one device. This project will help us get more comfortable with ML. 
