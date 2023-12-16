@@ -41,6 +41,8 @@ Results: The graphs from our project, both the reproduced graphs from the paper,
 Reproduced graphs:
 
 <img width="464" alt="Screen Shot 2023-12-15 at 12 22 18 PM" src="https://github.com/ivyjhuang/ECE535/assets/146273691/bc47755d-bffd-4f7d-9701-3885bf2ca97c">
+<img width="595" alt="Screen Shot 2023-12-15 at 12 14 47 PM" src="https://github.com/ivyjhuang/ECE535/assets/146273691/db81f9f5-a13f-44fe-9fce-ae9d479e5ea6">
+
 
 
 References:  
