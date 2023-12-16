@@ -53,6 +53,9 @@ Reproduced graphs:
 
 <img width="708" alt="Screen Shot 2023-12-15 at 2 21 40 PM" src="https://github.com/ivyjhuang/ECE535/assets/146273691/25efa890-fcf6-433f-a424-3aaef6d29cfb">
 
+<img width="681" alt="Screen Shot 2023-12-15 at 2 27 38 PM" src="https://github.com/ivyjhuang/ECE535/assets/146273691/43e746b2-8100-4eab-9f35-b6288d24aa26">
+
+
 
 
 
