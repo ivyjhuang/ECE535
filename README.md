@@ -51,6 +51,10 @@ Reproduced graphs:
 [single_multi_modality_comparison_UR_Fall_split_ae_rgb_depth.pdf](https://github.com/ivyjhuang/ECE535/files/13691280/single_multi_modality_comparison_UR_Fall_split_ae_rgb_depth.pdf)
 
 
+<img width="708" alt="Screen Shot 2023-12-15 at 2 21 40 PM" src="https://github.com/ivyjhuang/ECE535/assets/146273691/25efa890-fcf6-433f-a424-3aaef6d29cfb">
+
+
+
 
 
 
