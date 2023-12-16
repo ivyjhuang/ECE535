@@ -46,6 +46,8 @@ Reproduced graphs:
 
 [single_multi_modality_comparison_mHealth_split_ae_gyro_mage.pdf](https://github.com/ivyjhuang/ECE535/files/13691237/single_multi_modality_comparison_mHealth_split_ae_gyro_mage.pdf)
 
+<img width="538" alt="Screen Shot 2023-12-15 at 12 26 16 PM" src="https://github.com/ivyjhuang/ECE535/assets/146273691/04536499-20dd-4284-b3dc-17b7227ac0e5">
+
 
 
 
