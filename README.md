@@ -36,9 +36,16 @@ Project timeline:
 - Work about 1- 5 hrs/week  
 - Finish a week before the due date   
 
+Results: The graphs from our project, both the reproduced graphs from the paper, the per class accuracy graphs, and the data distribution graphs are included below. Descriptions of them are in the paper. 
+
+Reproduced graphs:
+
+<img width="464" alt="Screen Shot 2023-12-15 at 12 22 18 PM" src="https://github.com/ivyjhuang/ECE535/assets/146273691/bc47755d-bffd-4f7d-9701-3885bf2ca97c">
+
+
 References:  
 Multimodal Federated Learning on IOT Data (https://pure-research.york.ac.uk/ws/portalfiles/portal/ 79047763/2109.04833v2.pdf)  
 Communication-Efficient learning of deep networks from decentralized data (http:// proceedings.mlr.press/v54/mcmahan17a/mcmahan17a.pdf)  
 
-<img width="464" alt="Screen Shot 2023-12-15 at 12 22 18 PM" src="https://github.com/ivyjhuang/ECE535/assets/146273691/bc47755d-bffd-4f7d-9701-3885bf2ca97c">
+
 
